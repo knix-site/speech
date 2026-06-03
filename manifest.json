@@ -1,4 +1,5 @@
 {
+  "id": "com.knix.speechtime",
   "name": "Speech Time",
   "short_name": "Speech Time",
   "description": "Ingliz tili talaffuz mashqi va tarjima ilovasi",
@@ -24,6 +25,12 @@
       "sizes": "512x512",
       "type": "image/png",
       "form_factor": "narrow"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
     }
   ],
   "categories": ["education", "utilities"],
